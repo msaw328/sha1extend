@@ -1,0 +1,5 @@
+sha1.c and sha1.h have been downloaded from the https://github.com/clibs/sha1 repository, accessed on Wed, 05 Apr 2023 14:39:36 +0200 (date -R output)
+the commit id at the time was d9ae30f34095107ece9dceb224839f0dc2f9c1c7
+
+i am not the author of the implementation, all authorship information is inside the source files
+comments say the implementation is public domain, and i treat it as such
